@@ -3,6 +3,7 @@ programa
 	
 	funcao inicio()
 	{
+		/**/
 		inteiro num[5], menor
              	para(inteiro i =0; i < 5; i++){
 
@@ -29,9 +30,9 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 51; 
+ * @POSICAO-CURSOR = 39; 
  * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = {num, 6, 10, 3};
+ * @SIMBOLOS-INSPECIONADOS = {num, 7, 10, 3};
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
  * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
  */
